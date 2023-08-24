@@ -21,6 +21,7 @@ The datasets are stored in extented xyz format, which can be directly imported a
 
 ## Citation
 If you use the xxMD dataset in your research, please cite the original publication:
+
 @misc{pengmei2023xxmd,
       title={xxMD: Benchmarking Neural Force Fields Using Extended Dynamics beyond Equilibrium}, 
       author={Zihan Pengmei and Junyu Liu and Yinan Shu},
