@@ -21,7 +21,14 @@ The datasets are stored in extented xyz format, which can be directly imported a
 
 ## Citation
 If you use the xxMD dataset in your research, please cite the original publication:
-
+@misc{pengmei2023xxmd,
+      title={xxMD: Benchmarking Neural Force Fields Using Extended Dynamics beyond Equilibrium}, 
+      author={Zihan Pengmei and Junyu Liu and Yinan Shu},
+      year={2023},
+      eprint={2308.11155},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 
 ## Feedback and Contributions
 We welcome feedback, issue reports, and contributions. If you have any suggestions or find any inconsistencies in the dataset, please raise an issue or submit a pull request.
