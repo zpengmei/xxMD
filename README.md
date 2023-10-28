@@ -22,14 +22,16 @@ The datasets are stored in extented xyz format, which can be directly imported a
 ## Citation
 If you use the xxMD dataset in your research, please cite the original publication:
 
-@misc{pengmei2023xxmd,
-      title={xxMD: Benchmarking Neural Force Fields Using Extended Dynamics beyond Equilibrium}, 
-      author={Zihan Pengmei and Junyu Liu and Yinan Shu},
-      year={2023},
-      eprint={2308.11155},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+```
+@inproceedings{
+pengmei2023beyond,
+title={Beyond {MD}17: The xx{MD} Dataset as a Chemically Meaningful Benchmark for Neural Force Fields Development},
+author={Zihan Pengmei and Junyu Liu and Yinan Shu},
+booktitle={NeurIPS 2023 AI for Science Workshop},
+year={2023},
+url={https://openreview.net/forum?id=h9HuWcDJ6C}
 }
+```
 
 ## Feedback and Contributions
 We welcome feedback, issue reports, and contributions. If you have any suggestions or find any inconsistencies in the dataset, please raise an issue or submit a pull request.
