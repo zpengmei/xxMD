@@ -31,6 +31,17 @@ booktitle={NeurIPS 2023 AI for Science Workshop},
 year={2023},
 url={https://openreview.net/forum?id=h9HuWcDJ6C}
 }
+
+@article{pengmei2024beyond,
+  title={Beyond MD17: the reactive xxMD dataset},
+  author={Pengmei, Zihan and Liu, Junyu and Shu, Yinan},
+  journal={Scientific Data},
+  volume={11},
+  number={1},
+  pages={222},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
 ```
 
 ## Feedback and Contributions
